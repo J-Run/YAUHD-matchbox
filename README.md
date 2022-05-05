@@ -11,5 +11,5 @@ Cheap DIY network tool based on OrangePi R1
 
 [Components to build](https://github.com/J-Run/YAUHD-matchbox/wiki/BOM)
 
-![pic](https://raw.githubusercontent.com/J-Run/YAUHD-matchbox/master/images/preview.png)
+![pic](https://raw.githubusercontent.com/J-Run/YAUHD-matchbox/master/images/preview_v2.png)
 ![pic](https://raw.githubusercontent.com/J-Run/YAUHD-matchbox/master/images/yauhd_anim.gif)
